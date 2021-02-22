@@ -4,8 +4,11 @@ HW05 -- Stuylin' (Phase 3)
 2021-02-22 */
 
 body {
-	font-style: Comic Sans;
 	background-color: skyblue;
+}
+
+body {
+	font-style: Comic Sans;
 }
 
 h1 {
